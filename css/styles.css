@@ -109,6 +109,8 @@ button.rounded:hover{
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  height: auto;
+  overflow: hidden;
 }
 .flex-container{
   margin-top: 0;
